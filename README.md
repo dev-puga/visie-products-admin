@@ -27,6 +27,10 @@ Criação de um sistema para administrar produtos . Consumindo a API DummyJSON (
 3. Configure as variáveis de ambiente.
 4. Execute o projeto: `npm run dev`.
 
+![Lista-Produtos](https://raw.githubusercontent.com/dev-puga/visie-products-admin/main/front-react-lista.PNG)
+![Detalhes-Produtos](https://raw.githubusercontent.com/dev-puga/visie-products-admin/main/front-react-ver-dados.PNG)
+![Form-React](https://raw.githubusercontent.com/dev-puga/visie-products-admin/main/front-react-edicao.PNG)
+
 ## Contato
 
 - Email: [wpuga.dev@gmail.com](mailto:wpuga.dev@gmail.com)
